@@ -1,0 +1,9 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js",
+  "/admin/kelolaauthor/page": "app/admin/kelolaauthor/page.js",
+  "/login/page": "app/login/page.js",
+  "/dashboard-author/page": "app/dashboard-author/page.js",
+  "/registrasi/page": "app/registrasi/page.js",
+  "/syarat/page": "app/syarat/page.js"
+}
