@@ -1,12 +1,12 @@
-'use client'
-import React from 'react';
-import KelolaAuthor from './admin/kelolaauthor';
-import Registrasi from './auth/registrasi';
-import Login from './auth/login';
-// import Login from'
+import React from 'react'
+import LandingPage from '@/app/landingpage/landingpage'
 
-const Home = () => {
-  return <KelolaAuthor />;
-};
+const page = () => {
+  return (
+    <div>
+      <LandingPage />
+    </div>
+  )
+}
 
-export default Home;
+export default page
